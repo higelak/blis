@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8bbe20f1-70a1-4aa7-a60f-3a3a14fcf7b2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="uccblgk8" />
+  </component>
+  <component name="ProjectId" id="1mIk7Rwl41OCSWWNg5jDzn5FQTd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Cargo.Run">
+    <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run --package blis --bin blis" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test arithmetic_parser::tests" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="test --package blis --bin blis parser::arithmetic_parser::tests" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test parser::arithmetic_parser::tests::test_sum" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="test --package blis --bin blis parser::arithmetic_parser::tests::test_sum -- --exact" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo.Test arithmetic_parser::tests" />
+        <item itemvalue="Cargo.Test parser::arithmetic_parser::tests::test_sum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bbe20f1-70a1-4aa7-a60f-3a3a14fcf7b2" name="Default Changelist" comment="" />
+      <created>1609188324082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609188324082</updated>
+      <workItem from="1609188325677" duration="1530000" />
+      <workItem from="1609258686996" duration="1447000" />
+      <workItem from="1609445842864" duration="1144000" />
+      <workItem from="1609532615996" duration="1523000" />
+      <workItem from="1609628188809" duration="3424000" />
+      <workItem from="1609674776008" duration="4303000" />
+      <workItem from="1609686153073" duration="6463000" />
+      <workItem from="1609703325383" duration="3542000" />
+      <workItem from="1609783662900" duration="1529000" />
+      <workItem from="1609795079982" duration="2193000" />
+      <workItem from="1609843195731" duration="6004000" />
+      <workItem from="1609955307086" duration="38000" />
+      <workItem from="1609955407305" duration="9000" />
+      <workItem from="1609955463148" duration="8000" />
+      <workItem from="1609955823900" duration="145000" />
+      <workItem from="1609955992778" duration="975000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="294" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609953191538">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="294" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1609953191538" />
+    <state width="429" height="466" key="DebuggerActiveHint" timestamp="1609691671761">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="429" height="466" key="DebuggerActiveHint/0.0.1680.1010@0.0.1680.1010" timestamp="1609691671761" />
+    <state width="963" height="246" key="GridCell.Tab.0.bottom" timestamp="1609956834754">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="963" height="246" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1609956834754" />
+    <state width="963" height="246" key="GridCell.Tab.0.center" timestamp="1609956834753">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="963" height="246" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1609956834753" />
+    <state width="963" height="246" key="GridCell.Tab.0.left" timestamp="1609956834753">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="963" height="246" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1609956834753" />
+    <state width="963" height="246" key="GridCell.Tab.0.right" timestamp="1609956834754">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="963" height="246" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1609956834754" />
+    <state width="1637" height="336" key="GridCell.Tab.1.bottom" timestamp="1609692650795">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="336" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1609692650795" />
+    <state width="1637" height="336" key="GridCell.Tab.1.center" timestamp="1609692650795">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="336" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1609692650795" />
+    <state width="1637" height="336" key="GridCell.Tab.1.left" timestamp="1609692650795">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="336" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1609692650795" />
+    <state width="1637" height="336" key="GridCell.Tab.1.right" timestamp="1609692650795">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="336" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1609692650795" />
+    <state x="341" y="150" key="SettingsEditor" timestamp="1609955846925">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="341" y="150" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1609955846925" />
+    <state x="654" y="399" key="git4idea.ui.GitResetDialog" timestamp="1609949878852">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="654" y="399" key="git4idea.ui.GitResetDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1609949878852" />
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1609630219259">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1609630219259" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CargoCommandRunConfiguration">
+        <watch expression="rhs" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
