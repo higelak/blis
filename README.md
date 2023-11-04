@@ -1,4 +1,4 @@
-# blis
+# blis[![GitHub](https://img.shields.io/github/license/higelak/blis)](https://github.com/higelak/blis/blob/main/LICENSE)
 Simple arithmetic calculator.
 
 ## Description
